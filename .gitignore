@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large files
+*.gif
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# Dataset files
+*.pkl
+video_dataset/
+
+# Output directories
+mini_gpt_video_output/
+logs/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/ 
